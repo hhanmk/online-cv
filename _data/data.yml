@@ -90,7 +90,7 @@ publications:
       bibendum fringilla a eu lectus.
 
     papers:
-      - title: Statistical Zeroizing Attack: Cryptanalysis of Candidates of BP Obfuscation over GGH15 Multilinear Map
+      - title: {Statistical Zeroizing Attack: Cryptanalysis of Candidates of BP Obfuscation over GGH15 Multilinear Map}
         authors: Jung Hee Cheon, Wonhee Cho, Minki Hhan, Jiseung Kim, Changmin Lee
         conference: Crypto, 2019
         
