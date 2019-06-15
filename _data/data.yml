@@ -56,7 +56,7 @@ sidebar:
 #      Second paragraph if required.
 #
 education:
-    - degree: Phd in Mathematics
+    - degree: PhD student in Mathematics
       university: Seoul National University, Korea
       time: 2016 - current
       details: |
@@ -85,7 +85,7 @@ education:
 introduction:
     title: Minki Hhan
     summary:    
-        I am a Phd student in Seoul National University, studying cryptography under the supervision of prof. Jung Hee Cheon.
+        I am a PhD student in Seoul National University, studying cryptography under the supervision of prof. Jung Hee Cheon.
         My prilimary research topic is about the security and weakness of modern cryptographic objects such as obfuscations, 
         and classic objects in the quantum world.
 
