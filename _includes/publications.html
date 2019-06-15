@@ -18,6 +18,9 @@
 
   {% for publication in publications.papers %}
   <div class="item">
+    {% if publication-year %}
+      <div class="publication-year">{{ publication.year }}</div>
+    {% endif %}
     <div class="publication-title">{{ publication.title }}</div>
     <div class="publication-authors">{{ publication.authors }}</div>
     <div class="publication-conference">{{ publication.conference }}</div>
