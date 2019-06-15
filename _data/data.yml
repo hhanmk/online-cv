@@ -82,6 +82,14 @@ education:
           - Bullet point
           - Bullet point
 
+introduction:
+    title: Minki Hhan
+    summary:    
+        I am a Phd student in Seoul National University, studying cryptography under the supervision of prof. Jung Hee Cheon.
+        My prilimary research topic is about the security and weakness of modern cryptographic objects such as obfuscations, 
+        and classic objects in the quantum world.
+
+
 publications:
     title: Conference Publications
     intro: |
@@ -104,9 +112,17 @@ journal-publications:
     intro: |
 
     papers:
-      - title: "Journal paper 1"
-        authors: Jung Hee Cheon, Wonhee Cho, Minki Hhan, Jiseung Kim, Changmin Lee
-        conference: Crypto, 2019
+      - title: A Hybrid of Dual and Meet-in-the-Middle Attack on Sparse and Ternary Secret LWE
+        authors: Jung Hee Cheon, Minki Hhan, Seungwan Hong, Yongha Son
+        conference: IEEE Access, 2019, to appear
+        
+      - title: Faster Homomorphic Discrete Fourier Transforms and Improved FHE Bootstrapping
+        authors: Kyoohyung Han, Minki Hhan, Jung Hee Cheon
+        conference: IEEE Access, 2019
+        
+      - title: Cryptanalysis on the HHSS Obfuscation Arising From Absence of Safeguards
+        authors: Jung Hee Cheon, Minki Hhan, Jiseung Kim, Changmin Lee
+        conference: IEEE Access, 2018
 
         
 experiences:
