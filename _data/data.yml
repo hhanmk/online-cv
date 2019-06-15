@@ -90,18 +90,15 @@ publications:
       bibendum fringilla a eu lectus.
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Statistical Zeroizing Attack: Cryptanalysis of Candidates of BP Obfuscation over GGH15 Multilinear Map
+        authors: Jung Hee Cheon, Wonhee Cho, Minki Hhan, Jiseung Kim, Changmin Lee
+        conference: Crypto, 2019
+        
+      - title: Cryptanalyses of Branching Program Obfuscations over GGH13 Multilinear Map from the NTRU Problem
+        authors: Jung Hee Cheon, Minki Hhan, Jiseung Kim, Changmin Lee
+        conference: Crypto, 2018
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
+        
 experiences:
     - role: Research Intern
       time: 2018.10 - 2019.1
@@ -109,32 +106,11 @@ experiences:
       details: |
         I conducted an internship program under the supervising of Keita Xagawa and Takashi Yamakawa. 
         I started to study the quantum stuff related to cryptography (e.g. Quantum Random Oracle Models) 
-        in this program
+        in this program.
 #
 #          - Bullet point
 #          - Bullet point
 
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
