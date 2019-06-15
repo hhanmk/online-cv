@@ -83,12 +83,11 @@ education:
           - Bullet point
 
 publications:
-    title: Publications
+    title: Conference Publications
     intro: |
 
     papers:
-      - year: 2019
-        title: "Statistical Zeroizing Attack: Cryptanalysis of Candidates of BP Obfuscation over GGH15 Multilinear Map"
+      - title: "Statistical Zeroizing Attack: Cryptanalysis of Candidates of BP Obfuscation over GGH15 Multilinear Map"
         authors: Jung Hee Cheon, Wonhee Cho, Minki Hhan, Jiseung Kim, Changmin Lee
         conference: Crypto, 2019
         
@@ -96,10 +95,18 @@ publications:
         authors: Jung Hee Cheon, Wonhee Cho, Minki Hhan, Minsik Kang, Jiseung Kim, Changmin Lee
         conference: NutMic, 2019
         
-      - year: 2018
-        title: Cryptanalyses of Branching Program Obfuscations over GGH13 Multilinear Map from the NTRU Problem
+      - title: Cryptanalyses of Branching Program Obfuscations over GGH13 Multilinear Map from the NTRU Problem
         authors: Jung Hee Cheon, Minki Hhan, Jiseung Kim, Changmin Lee
         conference: Crypto, 2018
+        
+publications:
+    title: Journal Publications
+    intro: |
+
+    papers:
+      - title: "Journal paper 1"
+        authors: Jung Hee Cheon, Wonhee Cho, Minki Hhan, Jiseung Kim, Changmin Lee
+        conference: Crypto, 2019
 
         
 experiences:
