@@ -93,7 +93,7 @@ publications:
         conference: Crypto, 2019
         
       - title: Algorithms for CRT-variant of Approximate Greatest Common Divisor Problem
-        autohrs: Jung Hee Cheon, Wonhee Cho, Minki Hhan, Minsik Kang, Jiseung Kim, Changmin Lee
+        authors: Jung Hee Cheon, Wonhee Cho, Minki Hhan, Minsik Kang, Jiseung Kim, Changmin Lee
         conference: NutMic, 2019
         
       - year: 2018
