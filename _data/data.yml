@@ -86,7 +86,7 @@ introduction:
     title: Minki Hhan
     summary:    
         I am a PhD student in Seoul National University, studying cryptography under the supervision of prof. Jung Hee Cheon.
-        My prilimarily research topic is about the security and weakness of modern cryptographic objects such as obfuscations, 
+        My prilimarily research topics are the security and weakness of modern cryptographic objects such as obfuscations, 
         and classic objects in the quantum world.
 
 
@@ -130,7 +130,7 @@ experiences:
       time: 2018.10 - 2019.1
       company: NTT Security Platform Laboratories, Japan
       details: |
-        I conducted an internship program under the supervising of Keita Xagawa and Takashi Yamakawa. 
+        I conducted an internship program under the supervising of <a href="http://xagawa.net/">Keita Xagawa</a> and <a href="https://sites.google.com/view/takashiyamakawa">Takashi Yamakawa</a>. 
         I started to study the quantum stuff related to cryptography (e.g. Quantum Random Oracle Models) 
         in this program.
 #
