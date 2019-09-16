@@ -95,11 +95,11 @@ publications:
     papers:
       - title: "Matrix PRFs: Constructions, Attacks, and Applications to Obfuscation"
         authors: Yilei Chen, Minki Hhan, Hoeteck Wee, Vinod Vaikuntanathan
-        conference: TCC, 2019, to appear
+        conference: TCC, 2019
         
       - title: "Quantum Random Oracle Model with Auxiliary Input"
         authors: Minki Hhan, Keita Xagawa, Takashi Yamakawa
-        conference: Manuscript
+        conference: Asiacrypt, 2019
         
       - title: "Statistical Zeroizing Attack: Cryptanalysis of Candidates of BP Obfuscation over GGH15 Multilinear Map"
         authors: Jung Hee Cheon, Wonhee Cho, Minki Hhan, Jiseung Kim, Changmin Lee
@@ -134,7 +134,7 @@ journal-publications:
 experiences:
     - role: Research Intern
       time: 2018.10 - 2019.1
-      company: NTT Security Platform Laboratories, Japan
+      company: NTT Secure Platform Laboratories, Japan
       details: |
         I conducted an internship program under the supervising of <a href="http://xagawa.net/">Keita Xagawa</a> and <a href="https://sites.google.com/view/takashiyamakawa">Takashi Yamakawa</a>. 
         I started to study the quantum stuff related to cryptography (e.g. Quantum Random Oracle Models) 
