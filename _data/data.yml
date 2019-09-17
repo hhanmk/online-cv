@@ -89,7 +89,7 @@ introduction:
 
 
 publications:
-    title: Conference Publications
+    title: Conference Papers
     intro: |
 
     papers:
@@ -114,7 +114,7 @@ publications:
         conference: Crypto, 2018
         
 journal-publications:
-    title: Journal Publications
+    title: Journal Papers
     intro: |
 
     papers:
@@ -129,6 +129,8 @@ journal-publications:
       - title: Cryptanalysis on the HHSS Obfuscation Arising From Absence of Safeguards
         authors: Jung Hee Cheon, Minki Hhan, Jiseung Kim, Changmin Lee
         conference: IEEE Access, 2018
+
+
 
         
 experiences:
