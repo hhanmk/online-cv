@@ -94,23 +94,23 @@ publications:
 
     papers:
       - title: "Matrix PRFs: Constructions, Attacks, and Applications to Obfuscation"
-        authors: Yilei Chen, Minki Hhan, Hoeteck Wee, Vinod Vaikuntanathan
+        authors: <a href="http://www.chenyilei.net/">Yilei Chen</a>, Minki Hhan, <a href="https://www.di.ens.fr/~wee/">Hoeteck Wee</a>, <a href="https://people.csail.mit.edu/vinodv/">Vinod Vaikuntanathan</a>
         conference: TCC, 2019
         
       - title: "Quantum Random Oracle Model with Auxiliary Input"
-        authors: Minki Hhan, Keita Xagawa, Takashi Yamakawa
+        authors: Minki Hhan, <a href="http://xagawa.net/">Keita Xagawa</a>, <a href="https://sites.google.com/view/takashiyamakawa">Takashi Yamakawa</a>
         conference: Asiacrypt, 2019
         
       - title: "Statistical Zeroizing Attack: Cryptanalysis of Candidates of BP Obfuscation over GGH15 Multilinear Map"
-        authors: Jung Hee Cheon, Wonhee Cho, Minki Hhan, Jiseung Kim, Changmin Lee
+        authors: <a href="http://www.math.snu.ac.kr/~jhcheon/xe2/">Jung Hee Cheon</a>, Wonhee Cho, Minki Hhan, Jiseung Kim, Changmin Lee
         conference: Crypto, 2019
         
       - title: Algorithms for CRT-variant of Approximate Greatest Common Divisor Problem
-        authors: Jung Hee Cheon, Wonhee Cho, Minki Hhan, Minsik Kang, Jiseung Kim, Changmin Lee
+        authors: <a href="http://www.math.snu.ac.kr/~jhcheon/xe2/">Jung Hee Cheon</a>, Wonhee Cho, Minki Hhan, Minsik Kang, Jiseung Kim, Changmin Lee
         conference: NutMic, 2019
         
       - title: Cryptanalyses of Branching Program Obfuscations over GGH13 Multilinear Map from the NTRU Problem
-        authors: Jung Hee Cheon, Minki Hhan, Jiseung Kim, Changmin Lee
+        authors: <a href="http://www.math.snu.ac.kr/~jhcheon/xe2/">Jung Hee Cheon</a>, Minki Hhan, Jiseung Kim, Changmin Lee
         conference: Crypto, 2018
         
 journal-publications:
@@ -119,15 +119,15 @@ journal-publications:
 
     papers:
       - title: A Hybrid of Dual and Meet-in-the-Middle Attack on Sparse and Ternary Secret LWE
-        authors: Jung Hee Cheon, Minki Hhan, Seungwan Hong, Yongha Son
+        authors: <a href="http://www.math.snu.ac.kr/~jhcheon/xe2/">Jung Hee Cheon</a>, Minki Hhan, Seungwan Hong, Yongha Son
         conference: IEEE Access, 2019, to appear
         
       - title: Faster Homomorphic Discrete Fourier Transforms and Improved FHE Bootstrapping
-        authors: Kyoohyung Han, Minki Hhan, Jung Hee Cheon
+        authors: <a href="https://sites.google.com/view/kyoohyunghan">Kyoohyung Han</a>, Minki Hhan, <a href="http://www.math.snu.ac.kr/~jhcheon/xe2/">Jung Hee Cheon</a>
         conference: IEEE Access, 2019
         
       - title: Cryptanalysis on the HHSS Obfuscation Arising From Absence of Safeguards
-        authors: Jung Hee Cheon, Minki Hhan, Jiseung Kim, Changmin Lee
+        authors: <a href="http://www.math.snu.ac.kr/~jhcheon/xe2/">Jung Hee Cheon</a>, Minki Hhan, Jiseung Kim, Changmin Lee
         conference: IEEE Access, 2018
 
 
