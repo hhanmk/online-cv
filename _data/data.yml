@@ -10,9 +10,10 @@ sidebar:
     name: Minki Hhan
     tagline: Quantum Computation, Cryptography
     #avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-    <a href="https://dblp.org/pers/hd/h/Hhan:Minki">dblp</a>
+    
     # Sidebar links
     email: hhan_@snu.ac.kr
+    <a href="https://dblp.org/pers/hd/h/Hhan:Minki">dblp</a>
     #phone: 012 345 6789
     #website:      #do not add http://
     #linkedin: alandoe
