@@ -86,9 +86,10 @@ education:
           - Bullet point
 
 introduction:
-    title: Minki Hhan
+    title: About Me
     summary:    
-        I am a PhD student in Seoul National University, studying cryptography and quantum computation.
+        I am Minki Hhan, a PhD student in Seoul National University under the supervision of <a href="http://www.math.snu.ac.kr/~hhlee/">Hun Hee Lee</a>. 
+        My primarily topics are cryptography, quantum algorithms and (post-)quantum cryptography, but I am also intested in more broader topics such as theoretical computer science or computational complexity.
 
 
 publications:
